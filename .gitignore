@@ -367,7 +367,6 @@ FodyWeavers.xsd
 *.out
 *.app
 *.aps
-/lib
 /bin
 /old
 /.vs
