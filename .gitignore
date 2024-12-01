@@ -363,6 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Executables
+*.idb
 *.exe
 *.out
 *.app
